@@ -1,0 +1,1 @@
+Open project using Lazarus and FreePascal
